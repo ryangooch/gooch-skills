@@ -1,9 +1,9 @@
 ---
-name: reduce-llm-writing-tics
+name: reduce-llm-writing-patterns
 description: Draft or revise prose to reduce recurring LLM-style habits while preserving meaning, accuracy, genre, and the writer's voice. Use when a user asks for natural, human-sounding, less formulaic, less AI-like, or "anti-slop" writing; asks to edit AI-generated prose; or specifically wants fewer ornamental three-part lists, contrast formulas, inflated copular substitutes, stock LLM vocabulary, boldface, or em dashes.
 ---
 
-# Reduce LLM Writing Tics
+# Reduce LLM Writing Patterns
 
 Produce direct prose whose structure follows the subject. Use the listed patterns as audit signals and allow contextual exceptions. Preserve quotations, terms of art, genuine logical contrasts, and wording the user explicitly requests.
 
